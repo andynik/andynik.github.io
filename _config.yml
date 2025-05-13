@@ -34,6 +34,7 @@ nav:
 - { title: 'Publications',       href: '/publications' }
 - { title: 'STEM Projects',      href: '/stem-projects' }
 - { title: 'CV',                 href: '/cv' }
+- { title: 'Interests',          href: '/interests'}
 
 # Build settings
 theme: minima
@@ -45,6 +46,7 @@ header_pages:
   - publications.md
   - stem-projects.md
   - cv.md
+  - interests.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

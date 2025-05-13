@@ -64,7 +64,7 @@ _Supervised by Prof. Anatoly Anisimov_
 
 ### Educational STEM Outreach
 
-#### Kvanta Educational STEM Project ([kvanta.xyz](https://kvanta.xyz))
+#### Kvanta Educational STEM Project
 **Co-founder, Head, Teacher**  
 _2016 – Present_  
 - Directed extracurricular school courses for 500+ young learners.  
@@ -80,12 +80,12 @@ _Sep 2021 – Mar 2022_
 
 ### Community Service / Non-profit
 
-#### Let's Get Distracted! Project ([lets-get-distracted.kvanta.xyz](https://lets-get-distracted.kvanta.xyz))
+#### Let's Get Distracted! Project
 **Co-founder, Lecturer**  
 _Mar – Aug 2022_  
 - Volunteer classes for Ukrainian children impacted by war, reaching 300+ participants.
 
-#### NGO Kontora Pi ([kontorapi.com.ua](https://kontorapi.com.ua))
+#### NGO Kontora Pi
 **Program Manager**  
 _Jan – Aug 2019_  
 - Organised a 10-day math boot camp with 100+ attendees. Managed selection and curriculum.
