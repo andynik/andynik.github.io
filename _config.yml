@@ -33,8 +33,8 @@ linkedin_username: andynik
 nav:
 - { title: 'Publications',       href: '/publications' }
 - { title: 'STEM Projects',      href: '/stem-projects' }
-- { title: 'CV',                 href: '/cv' }
 - { title: 'Interests',          href: '/interests'}
+- { title: 'CV',                 href: '/cv' }
 
 # Build settings
 theme: minima
@@ -45,8 +45,9 @@ header_pages:
   - index.md
   - publications.md
   - stem-projects.md
-  - cv.md
   - interests.md
+  - cv.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -6,7 +6,7 @@ permalink: /interest/
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-## Personal Interests
+### Personal Interests
 
 In my free time, I enjoy running, doing yoga, and exploring new places.  
 I also track [series](https://www.serializd.com/user/andynik), [movies](https://letterboxd.com/andynik/), [games](https://backloggd.com/u/andynik/), and [books](https://app.thestorygraph.com/profile/andynik) I've absorbed.

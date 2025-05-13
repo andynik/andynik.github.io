@@ -34,10 +34,10 @@ As a result of our commitment, many Kvanta graduates have continued their passio
 ---
 
 #### Other Activities
-- Delivered talks on AI to pupils, teachers, and university students about language models, algorithms, and maths.
-- Occasionally write about STEM and AI on my [Substack](https://substack.com/@andynik).
-- Co-initiated interdisciplinary [volunteer classes](https://lets-get-distracted.kvanta.xyz) focused on improving the mental well-being of Ukrainian children in the first months of war (2023).
+- Deliver talks on AI to schoolchildren, teachers, and university students about AI, algorithms, and maths.
+- Share thoughts about STEM and AI, currently on [Substack](https://substack.com/@andynik).
 - Jury Member, [Ukrainian mathematical competitions](https://matholymp.com.ua/) (2016–2023).
+- Co-initiated interdisciplinary [volunteer classes](https://lets-get-distracted.kvanta.xyz) focused on improving the mental well-being of Ukrainian children in the first months of war (2022).
 - Organised educational boot camps for talented mathematicians and school teachers at [NGO Kontora Pi](https://kontorapi.com.ua) (2019).
 - C++ Teacher & Contests setter at [Programming and Information Technology School](https://pit.org.ua/) (2016-2019).
 - Python lecturer at Ukrainian Physics and Mathematics Lyceum (2016).
