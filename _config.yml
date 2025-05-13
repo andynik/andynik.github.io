@@ -32,7 +32,7 @@ linkedin_username: andynik
 # Navigation
 nav:
 - { title: 'Publications',       href: '/publications' }
-- { title: 'Outreach',           href: '/outreach' }
+- { title: 'STEM Projects',      href: '/stem-projects' }
 - { title: 'CV',                 href: '/cv' }
 
 # Build settings
@@ -43,7 +43,7 @@ plugins:
 header_pages:
   - index.md
   - publications.md
-  - outreach.md
+  - stem-projects.md
   - cv.md
 
 # Exclude from processing.

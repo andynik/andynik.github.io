@@ -49,8 +49,8 @@ _Supervised by Prof. Anatoly Anisimov_
 
 ### Education
 
-**Taras Shevchenko National University of Kyiv (KNU), Ukraine**
-- _Ph.D. Candidate in Computer Science (Sep 2020 – Sep 2025)_
+#### Taras Shevchenko National University of Kyiv (KNU), Ukraine
+- _Ph.D. Candidate in Computer Science (Oct 2020 – Sep 2025)_
 - _B.Sc. & M.Sc. (with honours) in Computer Science (2014 – 2020)_
 
 ---
