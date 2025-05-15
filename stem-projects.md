@@ -10,8 +10,17 @@ permalink: /stem-projects/
 
 Since 2016, I have been actively contributing to the growth of Ukrainian STEM talents by teaching mathematics & programming at summer camps and school-year classes, organising educational programs and competitions, and fostering a vibrant community of learners and educators.
 
+---
 
-![Kvanta](/images/kvanta.jpg){: style="float:right; width:300px; border-radius:12px; margin:0 0 1em 1em;"}
+[//]: # (![Kvanta]&#40;/images/mathcamp_2021.jpg&#41;{: style="float:right; width:300px; border-radius:12px; margin:1em 0 1em 1em;"})
+
+<div style="float:right; width:300px; margin:1em 0 1em 1em;">
+  <img src="/images/mathcamp_2021.jpg" alt="Kvanta" style="width:100%; border-radius:12px;">
+  <p style="text-align: center; font-style: italic; margin-top: 0.5em; font-size: 0.95em; color: #555;">
+    🇺🇦 Kyiv, Kvanta Summer Camp 2021
+  </p>
+</div>
+
 
 #### Kvanta Educational STEM Project ([kvanta.xyz](https://kvanta.xyz)), 2016–Present  
 In 2016 I co-founded Kvanta and directed yearly extracurricular school courses, reaching over **500 young learners** for 8+ years and inspiring interest in STEM. 
@@ -21,6 +30,15 @@ Together with a dedicated team of undergraduate instructors, we have conducted o
 As a result of our commitment, many Kvanta graduates have continued their passion for science, enrolling in top universities across Europe and the U.S.
 
 ---
+
+[//]: # (![EV]&#40;/images/ev_2023.jpg&#41;{: style="float:left; width:300px; border-radius:12px; margin:1em 2em 1em 0;"})
+
+<div style="float:left; width:300px; margin:1em 2em 1em 0;">
+  <img src="/images/ev_2023.jpg" alt="Emergent Ventures" style="width:100%; border-radius:12px;">
+  <p style="text-align: center; font-style: italic; margin-top: 0.5em; font-size: 0.95em; color: #555;">
+    🇮🇳 Chennai, Emergent Ventures India 2023
+  </p>
+</div>
 
 #### Conferences
 
@@ -33,7 +51,17 @@ As a result of our commitment, many Kvanta graduates have continued their passio
 
 ---
 
+[//]: # (![IMO]&#40;/images/imo_2023.JPG&#41;{: style="float:right; width:300px; border-radius:12px; margin:1em 0 1em 1em;"})
+
+<div style="float:right; width:300px; margin:1em 0 1em 1em;">
+  <img src="/images/imo_2023.JPG" alt="IMO" style="width:100%; border-radius:12px;">
+  <p style="text-align: center; font-style: italic; margin-top: 0.5em; font-size: 0.95em; color: #555;">
+    🇯🇵 Chiba, International Mathematical Olympiad 2023
+  </p>
+</div>
+
 #### Other Activities
+
 - Deliver talks on AI to schoolchildren, teachers, and university students about AI, algorithms, and maths.
 - Share thoughts about STEM and AI, currently on [Substack](https://substack.com/@andynik).
 - Jury Member, [Ukrainian mathematical competitions](https://matholymp.com.ua/) (2016–2023).
