@@ -8,7 +8,7 @@ permalink: /stem-projects/
 
 ### Educational Projects & Outreach
 
-Since 2016, I have been actively contributing to the growth of Ukrainian STEM talents by teaching mathematics & programming at summer camps and school-year classes, organising educational programs and competitions, and fostering a vibrant community of learners and educators.
+Since 2016, actively contributing to the growth of Ukrainian STEM talents by teaching mathematics \& programming at extracurricular classes and summer boot camps, organising educational programs and competitions, and fostering evolving community of learners and educators.
 
 ---
 
@@ -22,10 +22,11 @@ Since 2016, I have been actively contributing to the growth of Ukrainian STEM ta
 </div>
 
 
-#### Kvanta Educational STEM Project ([kvanta.xyz](https://kvanta.xyz)), 2016–Present  
-In 2016 I co-founded Kvanta and directed yearly extracurricular school courses, reaching over **500 young learners** for 8+ years and inspiring interest in STEM. 
+#### [Kvanta Educational STEM Project](https://kvanta.xyz)
 
-Together with a dedicated team of undergraduate instructors, we have conducted over 3,500 hours of classes trough weekly lessons and organised more than 10 educational boot camps in both online and in-person formats. Over $100,000 was secured in funding through grant applications and strategic partnerships to support ongoing project development.
+In 2016 I co-founded Kvanta and directed yearly STEM courses, reaching over **500 young learners** across 8+ years and inspiring interest in STEM. 
+
+Together with a dedicated team of undergraduate instructors, we have delivered over 3,500 teaching hours of classes trough weekly lessons and organised more than 10 educational boot camps in both online and in-person formats. Over $100,000 was secured in funding through grant applications and strategic partnerships to support ongoing project development.
 
 As a result of our commitment, many Kvanta graduates have continued their passion for science, enrolling in top universities across Europe and the U.S.
 

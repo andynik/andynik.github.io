@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interests
-permalink: /interest/
+permalink: /interests/
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
@@ -9,9 +9,11 @@ permalink: /interest/
 ### Personal Interests
 
 In my free time, I enjoy running 🏃, doing yoga 🧘, and exploring new places 🗺️  
-I also track the [series](https://www.serializd.com/user/andynik), [movies](https://letterboxd.com/andynik/), [games](https://backloggd.com/u/andynik/), and [books](https://app.thestorygraph.com/profile/andynik) I've absorbed.
+I have completed 9 half-marathons and 1 full marathon.
 
-I'm into ⚽️ 🏀 🏐 🏸 🏓 🏒 🎿 ⛸ 🏊‍♂️ 🚴‍ — happy to challenge or play together!
+I also track the [series](https://www.serializd.com/user/andynik), [movies](https://letterboxd.com/andynik/), [video games](https://backloggd.com/u/andynik/), and [books](https://app.thestorygraph.com/profile/andynik) I've absorbed.
+
+I'm into ⚽️ 🏀 🏐 🏸 🏓 ♟️ 🏒 🎿 ⛸ 🏊‍♂️ 🚴‍ 🥾️ – happy to challenge or play together!
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 2rem;">
 
