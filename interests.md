@@ -9,11 +9,11 @@ permalink: /interests/
 ### Personal Interests
 
 In my free time, I enjoy running 🏃, doing yoga 🧘, and exploring new places 🗺️  
-I have completed 9 half-marathons and 1 full marathon.
+I have completed 9 half-marathons and a full marathon.
 
-I also track the [series](https://www.serializd.com/user/andynik), [movies](https://letterboxd.com/andynik/), [video games](https://backloggd.com/u/andynik/), and [books](https://app.thestorygraph.com/profile/andynik) I've absorbed.
+I enjoy strong storytelling and immersive worlds — whether in series 🍿, movies 🎬, books 📚, or video games 🎮.
 
-I'm into ⚽️ 🏀 🏐 🏸 🏓 ♟️ 🏒 🎿 ⛸ 🏊‍♂️ 🚴‍ 🥾️ – happy to challenge or play together!
+I'm into ⚽️ 🏀 🏐 🏸 🏓 ♟️ 🏒 🎿 ⛸ 🏊‍♂️ 🚴‍ 🥾️ – happy for a challenge or to play together!
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 2rem;">
 

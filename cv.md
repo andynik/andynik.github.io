@@ -19,7 +19,7 @@ permalink: /cv/
 
 ### My Resume
 
-🔗 [Download Resume](https://drive.google.com/file/d/1bUqgkkv78kR14QLfE5oOagDnAB6uX5O8/view?usp=drive_link)
+🔗 [Download Resume](https://drive.google.com/file/d/18pMB6NeitQo6tkjREOafO4ElGAn1hCGv/view?usp=drive_link)
 
 ---
 
@@ -91,7 +91,7 @@ _2018_
 
 ### Educational STEM Projects & Outreach
 
-#### Kvanta Educational STEM Project
+#### [Kvanta Educational STEM Project](https://kvanta.xyz)
 _Co-Founder & Director_  
 _Dec 2016 – Present_
 - Co-founded Kvanta and led yearly STEM courses for 500+ young learners (3,500+ teaching hours) across 8+ years.
@@ -101,7 +101,7 @@ _Dec 2016 – Present_
 #### Other Activities
 - Delivered talks on AI, algorithms, and mathematics to schoolchildren, teachers, and university students.
 - Jury member, [Ukrainian Mathematical Competitions](https://matholymp.com.ua/) (2016–2023).
-- Co-initiated volunteer “Let’s Get Distracted” classes for Ukrainian children’s mental well-being (Mar – Aug 2022).
+- Co-initiated [Let’s Get Distracted!](https://lets-get-distracted.kvanta.xyz/) volunteer classes for Ukrainian children’s mental well-being (Mar – Aug 2022).
 - Organised educational boot camps at [NGO Kontora Pi](https://kontorapi.com.ua/en/) (2019).
 - C++/Python teacher & contest setter at [Programming and Information Technology School](https://pit.org.ua/) (2016–2019).
 - Python lecturer at Ukrainian Physics and Mathematics Lyceum (2016).
@@ -111,9 +111,10 @@ _Dec 2016 – Present_
 ### Mentorship & Leadership
 
 #### Academic
-- Assisted undergraduate seminars on databases/SQL and guest lectures on AI, ML, NLP, and cloud computing at KNU.
+- Assisted undergraduate seminars on databases/SQL at KNU.
+- Delivered university guest lectures on AI, ML, NLP, and cloud computing.
 
-#### Outside academia
+#### Teaching, education and outreach
 - Led a team of 40+ volunteer teachers in STEM programs for 8+ years.
 - Conducted Olympiad-style mathematics and programming classes.
 - Presented at conferences on STEM education and AI.
