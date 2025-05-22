@@ -8,12 +8,14 @@ permalink: /interests/
 
 ### Personal Interests
 
-In my free time, I enjoy running 🏃, doing yoga 🧘, and exploring new places 🗺️  
-I have completed 9 half-marathons and a full marathon.
+In my free time, I enjoy running, practicing yoga, and exploring new places.  
+I have completed 9 half-marathons and a full marathon. I have been to Zanzibar, Japan, India and other places.
 
-I enjoy strong storytelling and immersive worlds — whether in series 🍿, movies 🎬, books 📚, or video games 🎮.
+I am multimodal in my content preferences: I watch series, movies, read books and play video games.  
+My reading spans from dark dystopias to fantasy classics, including _1984_, _Catch-22_, _Do Androids Dream of Electric Sheep?_, _Dune_ etc.
+I enjoy immersive fantasy worlds and character-driven stories, including _The Witcher_, _Harry Potter_, _Lord of the Rings_, _Avatar_ etc.
 
-I'm into ⚽️ 🏀 🏐 🏸 🏓 ♟️ 🏒 🎿 ⛸ 🏊‍♂️ 🚴‍ 🥾️ – happy for a challenge or to play together!
+I'm into ⚽️ 🏀 🏐 🏸 🏓 ♟️ 🏒 🎿 ⛸ 🏊‍♂️ 🚴‍ 🥾️ – up for a challenge or to play together!
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 2rem;">
 
