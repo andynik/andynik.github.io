@@ -1,0 +1,8 @@
+/* assets/css/custom.css */
+.post-header {
+    display: none;
+}
+
+strong, b {
+    font-weight: 500;
+}
