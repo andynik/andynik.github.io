@@ -19,21 +19,21 @@ permalink: /cv/
 
 ### My Resume
 
-🔗 [Download Resume](https://drive.google.com/file/d/18pMB6NeitQo6tkjREOafO4ElGAn1hCGv/view?usp=drive_link).
+You can find [my resume here](https://drive.google.com/file/d/18pMB6NeitQo6tkjREOafO4ElGAn1hCGv/view?usp=drive_link) 📄
 
 ---
 
 ### Basics
 - **Name:** Andrii Nikolaiev
 - **Email:** [adnikolaiev@gmail.com](mailto:adnikolaiev@gmail.com)
-- **Current Status:** Ph.D. Candidate in Computer Science (Oct 2020 – Sep 2025 Exp.)
+- **Current Status:** Ph.D. Candidate in Computer Science _(Oct 2020 – Sep 2025 Exp.)_
 
 ---
 
 ### Research Experience
 
 #### Evaluating Mathematical Reasoning in Large Language Models
-_Apr 2023 – Dec 2024_  
+_Apr 2023 – Present_  
 **Supervisors:** Prof. Simone Teufel & Dr. Yiannos Stathopoulos, University of Cambridge
 - Designed benchmark datasets, evaluation scripts, and statistical tests (w/ llama.cpp, spaCy, NumPy etc.);
 - Deployed LLMs on cloud VMs (API, Hugging Face);
@@ -62,7 +62,7 @@ _2018–2020_
 - **Ph.D. Student in Computer Science**, _Oct 2020 – Sep 2025 (Expected)_  
   Supervised by [Prof. Anatoly Anisimov](https://dblp.org/pid/72/5294.html), Mathematical Informatics group.
 
-- **B.Sc. & M.Sc. (with honours) in Computer Science**, _Sep 2014 – May 2020_
+- **B.Sc. & M.Sc. (with honours) in Computer Science**, _2014–2020_
 
 ---
 
@@ -76,7 +76,7 @@ _2018–2020_
 ### Skills & Interests
 
 - **Programming languages:** Python, C/C++, MATLAB, R, SQL
-- **Natural languages:** English, Ukrainian
+- **Natural languages:** English _(fluent)_, Ukrainian _(native)_
 
 ---
 
@@ -93,4 +93,4 @@ _2018–2020_
 
 ---
 
-Check out my [Publications](/publications) and [STEM Projects](/stem-projects).
+Please, check out my [Research](/research) and [STEM Projects](/stem-projects) pages for more details.

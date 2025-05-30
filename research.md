@@ -1,20 +1,22 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Research
+permalink: /research/
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-### Publications
+### Research
 
-🔗 [Google Scholar Profile](https://scholar.google.com/citations?user=N8jrLt4AAAAJ).
+I study the mathematical reasoning abilities of language models – developing methods to analyse their problem-solving behavior, compare them with humans, and generate reliable synthetic problem sets. See the up-to-date list of publications on my [Google Scholar profile](https://scholar.google.com/citations?user=N8jrLt4AAAAJ) 🎓
 
-#### Journal Articles
+---
+
+#### Publications
 
 - **Neural Network Methods for Selecting and Generating Synthetic Variations of Combinatorial Problems.**  
   Nikolaiev, Andrii, and Anisimov, Anatoliy.  
-  *Cybernetics and Systems Analysis.* Accepted, to appear in May 2025.
+  *Cybernetics and Systems Analysis.* Accepted, to appear in June 2025.
 
 - **Can language models rival mathematics students? Evaluating mathematical reasoning through textual manipulation and human experiments.**    
   Nikolaiev, Andrii, Stathopoulos, Yiannos, and Teufel, Simone (2024).  

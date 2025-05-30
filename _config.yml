@@ -31,7 +31,7 @@ linkedin_username: andynik
 
 # Navigation
 nav:
-- { title: 'Publications',       href: '/publications' }
+- { title: 'Research',           href: '/research' }
 - { title: 'STEM Projects',      href: '/stem-projects' }
 - { title: 'Interests',          href: '/interests'}
 - { title: 'CV',                 href: '/cv' }
@@ -43,7 +43,7 @@ plugins:
 
 header_pages:
   - index.md
-  - publications.md
+  - research.md
   - stem-projects.md
   - interests.md
   - cv.md
