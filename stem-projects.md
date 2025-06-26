@@ -24,11 +24,13 @@ Since 2016, actively contributing to the growth of Ukrainian STEM talents by tea
 
 #### Kvanta Educational STEM Project
 
-In 2016 I co-founded [_Kvanta_](https://kvanta.xyz) and directed yearly STEM courses, reaching over **500 young learners** across 8+ years and inspiring interest in STEM. 
+In 2016 I co-founded [_Kvanta_](https://kvanta.xyz) and directed yearly STEM courses, reaching over **800 young learners** across 8+ years and inspiring interest in STEM. 
 
-Together with a dedicated team of volunteer instructors, we have delivered over **3,500 teaching hours** of classes trough weekly lessons and organised more than 10 educational boot camps in both online and in-person formats. **Over $100,000** was secured in funding through grant applications and partnerships with educational institutions, IT companies and educators to support ongoing project development.
+More than **3,500 teaching hours** have been delivered through weekly lessons and over 10 educational boot camps — both in-person and online (with up to 200 participants) — by our dedicated team of volunteer instructors and educators.
 
-As a result of our commitment, many Kvanta graduates have continued their passion for science, enrolling in top universities across Europe and the U.S.
+**Over $120,000** was secured in funding through grant applications and partnerships with educational institutions, IT companies and educators to support ongoing project development.
+
+As a result of our commitment, many Kvanta graduates have continued their passion for science -- participating in domestic and international top-level competitions (IMO, IOI, EGMO etc.), enrolling in top universities across Europe and the U.S.
 
 ---
 
@@ -63,9 +65,9 @@ As a result of our commitment, many Kvanta graduates have continued their passio
 #### Other Activities
 
 - Participated on scientific conferences and workshops about AI/STEM, delivered talks to schoolchildren, teachers, and university students.
-- Jury Member on the [_Ukrainian mathematical competitions_](https://matholymp.com.ua/) (2016–2023).
+- Jury member on the [_Ukrainian mathematical competitions_](https://matholymp.com.ua/) (2016–2023).
 - Co-initiated interdisciplinary volunteer classes [_Let's Get Distracted!_](https://lets-get-distracted.kvanta.xyz) focused on improving the mental well-being of Ukrainian children in the first months of war (2022).
-- Organised educational boot camps for talented mathematicians and school teachers at [_NGO Kontora Pi_](https://kontorapi.com.ua) (2019).
+- Organised educational boot camps for talented mathematicians and school teachers with up to 110 participants at [_NGO Kontora Pi_](https://kontorapi.com.ua) (2019).
 - Assisted seminars (databases, cloud computing, AI) at [_Taras Shevchenko National University of Kyiv_](https://knu.ua/en/).
 - C++ teacher & contest setter at [_Programming and Information Technology School_](https://pit.org.ua/) (2016-2019).
 - Python lecturer at _Ukrainian Physics and Mathematics Lyceum_ (2016).

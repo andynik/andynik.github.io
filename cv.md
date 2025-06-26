@@ -19,36 +19,47 @@ permalink: /cv/
 
 ### My Resume
 
-You can find [my resume here](https://drive.google.com/file/d/18pMB6NeitQo6tkjREOafO4ElGAn1hCGv/view?usp=drive_link) 📄
+You can find [My Resume here](https://drive.google.com/file/d/18pMB6NeitQo6tkjREOafO4ElGAn1hCGv/view?usp=drive_link) 📄
 
 ---
 
 ### Basics
 - **Name:** Andrii Nikolaiev
 - **Email:** [adnikolaiev@gmail.com](mailto:adnikolaiev@gmail.com)
-- **Current Status:** Ph.D. Candidate in Computer Science _(Oct 2020 – Sep 2025 Exp.)_
+- **Current Status:** Ph.D. Candidate in Computer Science
 
 ---
 
-### Research Experience
+### Professional Experience
 
-#### Evaluating Mathematical Reasoning in Large Language Models
+#### NLP Researcher at University of Cambridge
 _Apr 2023 – Present_  
-**Supervisors:** Prof. Simone Teufel & Dr. Yiannos Stathopoulos, University of Cambridge
-- Designed benchmark datasets, evaluation scripts, and statistical tests (w/ llama.cpp, spaCy, NumPy etc.);
-- Deployed LLMs on cloud VMs (API, Hugging Face);
-- Organised human evaluations for comparison studies.
+**Supervisors:** Prof. Simone Teufel & Dr. Yiannos Stathopoulos, NLIP group.
+- Designed benchmark datasets, evaluation pipelines and statistical tests to assess how textual modifications affect human experts vs. LLMs.
+- Deployed _GPT, LLaMA, Mistral, Qwen_ models via API and on cloud VMs for large-scale experiments.
+- Coordinated human evaluation studies (40+ participants) to compare model outputs against expert solutions.
+- _**Skills:**_ llama.cpp, spaCy, NumPy, Hugging Face, API integration, Foundation models, Linux, Git, Statistical Analysis.
 
-#### Ph.D. Thesis: Data Generation Methods for Combinatorial Problems
-_Oct 2020 – Present_  
-**Supervisor:** Prof. Anatoly Anisimov, Taras Shevchenko National University of Kyiv
-- Developed pipelines for synthetic combinatorial problem generation;
-- Designing AI-powered maths platform for automated solution grading;
-- Evaluated LLM performance using machine learning evaluation metrics and statistical analysis.
+#### Ph.D. Student at Taras Shevchenko National University of Kyiv
+_Oct 2020 – Sep 2025 (Expected)_  
+**Supervisor:** Prof. Anatoly Anisimov, Mathematical Informatics group.
+- Processed large-scale mathematical datasets (e.g., _NuminaMath_ ~860K problems).
+- Developed synthetic problem-generation pipelines and automated grading systems, cutting costs by 98% while preserving accuracy.
+- Performed statistical and error analyses to evaluate LLM performance across mathematical domains.  
+- _**Skills:**_ Data engineering (NumPy, Pandas), Synthetic Data Generation, LLM evaluation, Statistical Analysis.
 
-#### Reinforcement Learning Agents for Game Environments
-_2018–2020_
-- B.Sc. & M.Sc. research: designed and benchmarked reinforcement learning + MCTS algorithms for Atari-style games and a neural network chess engine using PyTorch, TensorFlow, Ray, and cloud computing.
+#### Machine Learning & AI projects
+
+**Automated Math Grading Platform (Pilot)**, _Sep 2024 – Present_
+- Built and deployed an AI-powered grading system using _GPT-4o and Mistral_ over 150+ student problem sets in number theory, algebra, and combinatorics.
+
+**Reinforcement Learning + MCTS for Games**, _Mar 2018 – May 2020_
+- Designed a distributed RL + MCTS training engine for chess and Atari; no handcrafted heuristics.
+- Implemented with _PyTorch, TensorFlow, Ray, and Google Cloud Platform_ for scalable training.
+
+**COVID-19 Forecasting**, _Jan 2021 – Jun 2021_
+- Compared epidemiological (SIR/SEIR) vs. ML _(Gradient Boosting, Random Forest, SVM, ARIMA)_ models on _JHU CSSE dataset_.
+- Achieved up to 92% accuracy in regional case forecasts.
 
 ---
 
@@ -56,13 +67,16 @@ _2018–2020_
 
 #### University of Cambridge, UK
 - **Visiting Postgraduate Research Student**, _Apr 2023 – Present_  
-  Supervised by [Prof. Simone Teufel](https://www.cl.cam.ac.uk/~sht25/), NLIP group.
 
 #### Taras Shevchenko National University of Kyiv, Ukraine
 - **Ph.D. Student in Computer Science**, _Oct 2020 – Sep 2025 (Expected)_  
-  Supervised by [Prof. Anatoly Anisimov](https://dblp.org/pid/72/5294.html), Mathematical Informatics group.
 
 - **B.Sc. & M.Sc. (with honours) in Computer Science**, _2014–2020_
+
+**Certifications & Courses**
+- [Machine Learning Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/S7VGGA7XTPYJ), Stanford Online via Coursera (2022)
+- Genesys IT School (selected in top 1.6% of 2,500 applicants, 2021)
+
 
 ---
 
@@ -73,23 +87,24 @@ _2018–2020_
 
 ---
 
-### Skills & Interests
+### Skills
 
-- **Programming languages:** Python, C/C++, MATLAB, R, SQL
-- **Natural languages:** English _(fluent)_, Ukrainian _(native)_
+- **Programming:** Python, C/C++, R, MATLAB, SQL, LaTeX
+- **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, NumPy, Pandas, spaCy
+- **NLP & LLMs:** Transformers, Prompt Engineering, Quantisation, Fine-tuning
+- **ML:** Supervised Learning (Regression, Neural Networks, Decision trees), Unsupervised Learning
+  (Clustering, Anomaly detection), Recommender Systems, Reinforcement learning
+- **Cloud & Data:** SQL, Git, Google Cloud Platform, Linux
+- **Additional skills:** Entrepreneurship, Market research, Analytics, A/B Testing, Project Design
+- **Languages:** English (fluent), Ukrainian (native)
 
 ---
 
 ### Additional Experience
 
-- **Leadership & Entrepreneurship:**  
-  Co-founded [_Kvanta Educational STEM Project_](https://kvanta.xyz) (since 2016), directed STEM programs for 500+ students, secured $100K+ in grants, and led a 40-member volunteer team; directed mathematical boot camps at [_NGO Kontora Pi_](https://kontorapi.com.ua/en/) (2019).
+- **Leadership & Management:** Organised and led STEM education initiatives (including [self-initiated projects](/stem-projects)) for over 8 years, reaching 800+ students, engaging 150+ volunteers, and securing $120K+ in grant funding.
 
-- **Public Speaking & Outreach:**  
-  Delivered talks at scientific conferences and workshops about AI/STEM; co-initiated [_Let’s Get Distracted!_](https://lets-get-distracted.kvanta.xyz/) wellbeing programme for children.
-
-- **Mentorship & Teaching:**  
-  Assisted seminars (databases, cloud computing, AI) at [_KNU_](https://knu.ua/en/); served as jury member for [_Ukrainian Mathematical Competitions_](https://matholymp.com.ua/) (2016–2023); taught C++/Python at [_Programming & Information Technology School_](https://pit.org.ua/) (2016–2019), _Ukrainian Physics and Mathematics Lyceum_ (2016).
+- **Public Speaking & Mentorship:** Delivered talks on AI and STEM at more than 20 practical conferences and workshops; conducted over 1,000 hours of teaching assistance practice classes on Programming, Databases, AI, and Mathematics.
 
 ---
 
