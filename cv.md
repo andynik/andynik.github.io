@@ -25,41 +25,61 @@ You can find [My Resume here](https://drive.google.com/file/d/18pMB6NeitQo6tkjRE
 
 ### Basics
 - **Name:** Andrii Nikolaiev
-- **Email:** [adnikolaiev@gmail.com](mailto:adnikolaiev@gmail.com)
-- **Current Status:** Ph.D. Candidate in Computer Science
+- **Contact email:** [adnikolaiev@gmail.com](mailto:adnikolaiev@gmail.com)
+- **Current status:** Ph.D. Candidate in Computer Science (thesis submitted)
 
 ---
 
 ### Professional Experience
 
 #### NLP Researcher at University of Cambridge
-_Apr 2023 – Present_  
-**Supervisors:** Prof. Simone Teufel & Dr. Yiannos Stathopoulos, NLIP group.
-- Designed benchmark datasets, evaluation pipelines and statistical tests to assess how textual modifications affect human experts vs. LLMs.
-- Deployed _GPT, LLaMA, Mistral, Qwen_ models via API and on cloud VMs for large-scale experiments.
-- Coordinated human evaluation studies (40+ participants) to compare model outputs against expert solutions.
-- _**Skills:**_ llama.cpp, spaCy, NumPy, Hugging Face, API integration, Foundation models, Linux, Git, Statistical Analysis.
+_Apr 2023 – Present (2 years 3 months)_
+- Designed benchmark datasets, evaluation metrics and computational analysis to assess how textual modifications affect LLMs and human experts.
+- Deployed _GPT, LLaMA, Mistral, Qwen_ models on HPC and cloud VMs with _llama.cpp_.
+- Coordinated human evaluation studies with up to 40 participants to validate benchmark complexity and model outputs.
+- _**Skills:**_ Dataset Design, HPC Deployment, LLM Evaluation, Computational Statistics, Natural Language Processing.
 
 #### Ph.D. Student at Taras Shevchenko National University of Kyiv
-_Oct 2020 – Sep 2025 (Expected)_  
-**Supervisor:** Prof. Anatoly Anisimov, Mathematical Informatics group.
-- Processed large-scale mathematical datasets (e.g., _NuminaMath_ ~860K problems).
-- Developed synthetic problem-generation pipelines and automated grading systems, cutting costs by 98% while preserving accuracy.
-- Performed statistical and error analyses to evaluate LLM performance across mathematical domains.  
-- _**Skills:**_ Data engineering (NumPy, Pandas), Synthetic Data Generation, LLM evaluation, Statistical Analysis.
+_Oct 2020 – Apr 2025 (5 years 6 months)_
+- Analysed and processed 860K+ Chain-of-Thought examples using Python and R.
+- Evaluated 15+ LLMs on mathematical reasoning benchmarks.
+- Built automated data generation and quality-evaluation pipelines, reducing annotation costs by over 50%.
+- _**Skills:**_ Data Augmentation, Large Reasoning Models, Chain-of-Thought.
 
-#### Machine Learning & AI projects
+### Machine Learning & AI Projects
 
-**Automated Math Grading Platform (Pilot)**, _Sep 2024 – Present_
-- Built and deployed an AI-powered grading system using _GPT-4o and Mistral_ over 150+ student problem sets in number theory, algebra, and combinatorics.
+<div style="overflow: hidden; margin-bottom: 1.5em;">
+  <img src="/images/ai_tutor.png" alt="Automated Math Grading Platform" style="float: right; width: 110px; margin-left: 1em; margin-bottom: 0.5em; border-radius: 12px;">
+  <strong>Automated Math Grading Platform</strong>, <em>Sep 2024 – Present</em><br>
+  - Coordinated datasets creation and feature engineering.<br>
+  - Curated agentic model design for LLM-based grading platform.<br>
+  - Investigated mathematical text segmentation and data extraction with <em>Mistral OCR, Kraken</em>.
+</div>
 
-**Reinforcement Learning + MCTS for Games**, _Mar 2018 – May 2020_
-- Designed a distributed RL + MCTS training engine for chess and Atari; no handcrafted heuristics.
-- Implemented with _PyTorch, TensorFlow, Ray, and Google Cloud Platform_ for scalable training.
+<div style="overflow: hidden; margin-bottom: 1.5em;">
+  <img src="/images/chess.png" alt="Reinforcement Learning" style="float: right; width: 110px; margin-left: 1em; margin-bottom: 0.5em; border-radius: 12px;">
+  <strong>Reinforcement Learning + MCTS for Games</strong>, <em>Mar 2018 – May 2020</em><br>
+  - Built RL + MCTS engine for chess and Atari; no handcrafted heuristics.<br>
+  - Used <em>TensorFlow</em>, <em>PyTorch</em> and <em>Ray</em> with <em>Google Cloud Platform</em>.<br>
+  - Reached 2000 ELO in 12 hrs via distributed training.
+</div>
 
-**COVID-19 Forecasting**, _Jan 2021 – Jun 2021_
-- Compared epidemiological (SIR/SEIR) vs. ML _(Gradient Boosting, Random Forest, SVM, ARIMA)_ models on _JHU CSSE dataset_.
-- Achieved up to 92% accuracy in regional case forecasts.
+<div style="overflow: hidden; margin-bottom: 1.5em;">
+  <img src="/images/covid.png" alt="COVID Forecasting" style="float: right; width: 110px; margin-left: 1em; margin-bottom: 0.5em; border-radius: 12px;">
+  <strong>COVID-19 Forecasting</strong>, <em>Dec 2020 – Jun 2021</em><br>
+  - Compared SIR/SEIR vs. ML (<em>Gradient Boosting, SVM, ARIMA</em>) models on JHU CSSE dataset.<br>
+  - Outperformed traditional models on short-term (1–2 weeks) regional forecasts.
+</div>
+
+<div style="overflow: hidden; margin-bottom: 1.5em;">
+  <img src="/images/solar.png" alt="Solar Flare Classification" style="float: right; width: 110px; margin-left: 1em; margin-bottom: 0.5em; border-radius: 12px;">
+  <strong>Solar Flare Classification</strong>, <em>2018</em><br>
+  - Achieved 99% accuracy on the UCI Solar Flare dataset.<br>
+  - Part of the Samsung ML Research project.
+</div>
+
+<em><strong>Skills:</strong></em> Supervised/Unsupervised Learning, Reinforcement Learning, Time-Series Forecasting, Data Analysis, MLOps.
+
 
 ---
 
@@ -69,12 +89,12 @@ _Oct 2020 – Sep 2025 (Expected)_
 - **Visiting Postgraduate Research Student**, _Apr 2023 – Present_  
 
 #### Taras Shevchenko National University of Kyiv, Ukraine
-- **Ph.D. Student in Computer Science**, _Oct 2020 – Sep 2025 (Expected)_  
+- **Ph.D. in Computer Science**, _Oct 2020 – Sep 2025 (Expected)_  
 
 - **B.Sc. & M.Sc. (with honours) in Computer Science**, _2014–2020_
 
-**Certifications & Courses**
-- [Machine Learning Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/S7VGGA7XTPYJ), Stanford Online via Coursera (2022)
+**Additional courses**
+- Machine Learning Specialisation, Stanford Online via Coursera (2022)
 - Genesys IT School (selected in top 1.6% of 2,500 applicants, 2021)
 
 
@@ -82,29 +102,31 @@ _Oct 2020 – Sep 2025 (Expected)_
 
 ### Grants & Awards
 
-- Two-time Grant Winner for innovative educational projects — Emergent Ventures U.S. fellowship from Mercatus Center at George Mason University (2023; 2024). E.V. conference participant (Chennai, India, 2023).
+- Two-time Grant Winner for innovative educational projects — Emergent Ventures U.S. fellowship from Mercatus Center at George Mason University (2023; 2024)
 - Award for 2-year fully funded visiting postgraduate research placement at University of Cambridge (2023–2025)
-
----
-
-### Skills
-
-- **Programming:** Python, C/C++, R, MATLAB, SQL, LaTeX
-- **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, NumPy, Pandas, spaCy
-- **NLP & LLMs:** Transformers, Prompt Engineering, Quantisation, Fine-tuning
-- **ML:** Supervised Learning (Regression, Neural Networks, Decision trees), Unsupervised Learning
-  (Clustering, Anomaly detection), Recommender Systems, Reinforcement learning
-- **Cloud & Data:** SQL, Git, Google Cloud Platform, Linux
-- **Additional skills:** Entrepreneurship, Market research, Analytics, A/B Testing, Project Design
-- **Languages:** English (fluent), Ukrainian (native)
 
 ---
 
 ### Additional Experience
 
-- **Leadership & Management:** Organised and led STEM education initiatives (including [self-initiated projects](/stem-projects)) for over 8 years, reaching 800+ students, engaging 150+ volunteers, and securing $120K+ in grant funding.
+- **Leadership:** Led STEM education programs (800+ students; \$120K+ grants)
 
-- **Public Speaking & Mentorship:** Delivered talks on AI and STEM at more than 20 practical conferences and workshops; conducted over 1,000 hours of teaching assistance practice classes on Programming, Databases, AI, and Mathematics.
+- **Public speaking:** Delivered talks on AI and STEM at more than 20 practical conferences and workshops
+
+- **Mentorship:** Conducted over 1,000 hours of teaching assistance practice classes on Programming, Databases, Cloud Computing, and Mathematics
+
+---
+
+### Skills
+
+- **Programming:** Python, C/C++, R, MATLAB, SQL
+- **Libraries & Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face, NumPy, Pandas, spaCy, Matplotlib
+- **NLP & LLMs:** Transformers, Prompt Engineering, Chain-of-Thought, Fine-tuning, Evaluation Design
+- **Cloud & Deployment:** Google Cloud Platform, HPC clusters, Git, UNIX
+- **Web & Markup:** HTML, CSS, Markdown, LaTeX
+- **Product:** Market Research, Analytics, A/B Testing, Project Design
+- **Interpersonal:** Leadership, Entrepreneurship, Mentorship
+- **Languages:** English (fluent), Ukrainian (native)
 
 ---
 
