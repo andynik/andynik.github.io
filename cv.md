@@ -26,60 +26,68 @@ You can find [My Resume here](https://drive.google.com/file/d/18pMB6NeitQo6tkjRE
 ### Basics
 - **Name:** Andrii Nikolaiev
 - **Contact email:** [adnikolaiev@gmail.com](mailto:adnikolaiev@gmail.com)
-- **Current status:** Ph.D. Candidate in Computer Science (thesis submitted)
+- **Current status:** Visiting researcher at the University of Cambridge, Ph.D. Candidate in Computer Science (thesis submitted)
 
 ---
 
 ### Professional Experience
 
 #### NLP Researcher at University of Cambridge
-_Apr 2023 – Present (2 years 3 months)_
-- Designed benchmark datasets, evaluation metrics and computational analysis to assess how textual modifications affect LLMs and human experts.
-- Deployed _GPT, LLaMA, Mistral, Qwen_ models on HPC and cloud VMs with _llama.cpp_.
-- Coordinated human evaluation studies with up to 40 participants to validate benchmark complexity and model outputs.
-- _**Skills:**_ Dataset Design, HPC Deployment, LLM Evaluation, Computational Statistics, Natural Language Processing.
+_Apr 2023 – Present_
+- Developed benchmark datasets and applied computational statistics, revealing up to 30% variance in LLM reasoning due to textual modifications.
+- Deployed language models (_GPT, LLaMA, Mistral, Qwen_) on HPC clusters and cloud VMs with _llama.cpp_.
+- Led human evaluation studies with 40 participants to validate benchmark difficulty level and assess model outputs against expert judgments.
+- _**Skills:**_ Dataset Design, HPC Deployment, Model Benchmarking, Computational Statistics, Natural Language Processing.
 
 #### Ph.D. Student at Taras Shevchenko National University of Kyiv
-_Oct 2020 – Apr 2025 (5 years 6 months)_
+_Oct 2020 – Sep 2025 (expected)_
 - Analysed and processed 860K+ Chain-of-Thought examples using Python and R.
-- Evaluated 15+ LLMs on mathematical reasoning benchmarks.
-- Built automated data generation and quality-evaluation pipelines, reducing annotation costs by over 50%.
-- _**Skills:**_ Data Augmentation, Large Reasoning Models, Chain-of-Thought.
+- Evaluated 15+ LLMs on automated reasoning using large-scale datasets.
+- Developed data generation methods and quality evaluation pipelines with LLM-as-a-Judge to automate math creation problems, reducing annotation costs by over 50%.
+- _**Skills:**_ Foundation Models, Mathematical Reasoning, ATP, Data Augmentation.
 
 ### Machine Learning & AI Projects
 
 <div style="overflow: hidden; margin-bottom: 1.5em;">
-  <img src="/images/ai_tutor.png" alt="Automated Math Grading Platform" style="float: right; width: 110px; margin-left: 1em; margin-bottom: 0.5em; border-radius: 12px;">
-  <strong>Automated Math Grading Platform</strong>, <em>Sep 2024 – Present</em><br>
-  - Coordinated datasets creation and feature engineering.<br>
-  - Curated agentic model design for LLM-based grading platform.<br>
-  - Investigated mathematical text segmentation and data extraction with <em>Mistral OCR, Kraken</em>.
-</div>
-
-<div style="overflow: hidden; margin-bottom: 1.5em;">
-  <img src="/images/chess.png" alt="Reinforcement Learning" style="float: right; width: 110px; margin-left: 1em; margin-bottom: 0.5em; border-radius: 12px;">
-  <strong>Reinforcement Learning + MCTS for Games</strong>, <em>Mar 2018 – May 2020</em><br>
-  - Built RL + MCTS engine for chess and Atari; no handcrafted heuristics.<br>
-  - Used <em>TensorFlow</em>, <em>PyTorch</em> and <em>Ray</em> with <em>Google Cloud Platform</em>.<br>
-  - Reached 2000 ELO in 12 hrs via distributed training.
-</div>
-
-<div style="overflow: hidden; margin-bottom: 1.5em;">
-  <img src="/images/covid.png" alt="COVID Forecasting" style="float: right; width: 110px; margin-left: 1em; margin-bottom: 0.5em; border-radius: 12px;">
-  <strong>COVID-19 Forecasting</strong>, <em>Dec 2020 – Jun 2021</em><br>
-  - Compared SIR/SEIR vs. ML (<em>Gradient Boosting, SVM, ARIMA</em>) models on JHU CSSE dataset.<br>
-  - Outperformed traditional models on short-term (1–2 weeks) regional forecasts.
+  <img src="/images/osiris.jpg" alt="Historical Records Processing" style="float: right; width: 110px; margin-left: 1em; margin-bottom: 0.5em; border-radius: 12px;">
+  <strong>Historical Records Processing – Osiris AI</strong><br>
+  - Enhanced HTR pipeline accuracy by 10–15% on 19th-century tabular records.<br>
+  - Integrated multimodal LLMs with <em>PAGE XML</em> (eScriptorium) and raw images.<br>
+  - Deployed models with <em>vLLM</em>, <em>Ollama</em> on distributed VM infrastructure.
 </div>
 
 <div style="overflow: hidden; margin-bottom: 1.5em;">
   <img src="/images/solar.png" alt="Solar Flare Classification" style="float: right; width: 110px; margin-left: 1em; margin-bottom: 0.5em; border-radius: 12px;">
-  <strong>Solar Flare Classification</strong>, <em>2018</em><br>
-  - Achieved 99% accuracy on the UCI Solar Flare dataset.<br>
-  - Part of the Samsung ML Research project.
+  <strong>Solar Flare Classification - Samsung ML Research</strong><br>
+  - Processed and visualised data, benchmarked traditional ML models.<br>
+  - Trained neural networks for classification.<br>
+  - Achieved 99% accuracy on the <em>UCI Solar Flare dataset</em>.<br>
 </div>
 
-<em><strong>Skills:</strong></em> Supervised/Unsupervised Learning, Reinforcement Learning, Time-Series Forecasting, Data Analysis, MLOps.
+<div style="overflow: hidden; margin-bottom: 1.5em;">
+  <img src="/images/ai_tutor.png" alt="Automated Math Tutor" style="float: right; width: 110px; margin-left: 1em; margin-bottom: 0.5em; border-radius: 12px;">
+  <strong>Automated Math Tutor</strong><br>
+  - Prepared datasets by collecting and analysing real math problems and solutions from online classes.<br>
+  - Curated design and implementation for LLM-based grading agentic system via <em>Google Cloud Platform</em>, achieving 80% accuracy.<br>
+  - Investigated mathematical text segmentation and data extraction with <em>Mistral OCR, Kraken</em>.
+</div>
 
+<div style="overflow: hidden; margin-bottom: 1.5em;">
+  <img src="/images/covid.png" alt="Pandemics Forecasting" style="float: right; width: 110px; margin-left: 1em; margin-bottom: 0.5em; border-radius: 12px;">
+  <strong>COVID-19 Forecasting</strong><br>
+  - Compared SIR/SEIR vs. ML (Gradient Boosting, Random Forest, SVM, ARIMA) models on <em>JHU CSSE dataset</em>.<br>
+  - Outperformed traditional models on short-term (1–2 weeks) regional forecasts.
+</div>
+
+<div style="overflow: hidden; margin-bottom: 1.5em;">
+  <img src="/images/chess.png" alt="NN engine" style="float: right; width: 110px; margin-left: 1em; margin-bottom: 0.5em; border-radius: 12px;">
+  <strong>Neural Network Games Engine</strong><br>
+  - Built Reinforcement Learning + Monte Carlo Tree Search engine for chess and Atari; no handcrafted heuristics.<br>
+  - Used <em>TensorFlow</em>, <em>PyTorch</em> and <em>Ray</em> for distributed training on <em>Google Cloud Platform</em>.<br>
+  - Reached 2000 ELO in 12 hrs.
+</div>
+
+<em><strong>Skills:</strong></em> Supervised/Unsupervised Learning, Deep Learning, Reinforcement Learning, Time-Series Forecasting, OCR, Data Analysis, mLLMs, MLOps.
 
 ---
 
@@ -91,7 +99,7 @@ _Oct 2020 – Apr 2025 (5 years 6 months)_
 #### Taras Shevchenko National University of Kyiv, Ukraine
 - **Ph.D. in Computer Science**, _Oct 2020 – Sep 2025 (Expected)_  
 
-- **B.Sc. & M.Sc. (with honours) in Computer Science**, _2014–2020_
+- **B.Sc. & M.Sc. in Computer Science** (with honours), _2014–2020_
 
 **Additional courses**
 - Machine Learning Specialisation, Stanford Online via Coursera (2022)
@@ -103,26 +111,26 @@ _Oct 2020 – Apr 2025 (5 years 6 months)_
 ### Grants & Awards
 
 - Two-time Grant Winner for innovative educational projects — Emergent Ventures U.S. fellowship from Mercatus Center at George Mason University (2023; 2024)
-- Award for 2-year fully funded visiting postgraduate research placement at University of Cambridge (2023–2025)
+- Award for 2-year fully funded visiting postgraduate research placement at the University of Cambridge (2023–2025)
 
 ---
 
 ### Additional Experience
 
-- **Leadership:** Led STEM education programs (800+ students; \$120K+ grants)
+- **Leadership:** Led STEM education programs (800+ students; \$120K+ in grants)
 
-- **Public speaking:** Delivered talks on AI and STEM at more than 20 practical conferences and workshops
+- **Mentorship:** Delivered 1,000+ hrs of instruction on Programming, Databases, Cloud Computing, and Mathematics
 
-- **Mentorship:** Conducted over 1,000 hours of teaching assistance practice classes on Programming, Databases, Cloud Computing, and Mathematics
+- **Public speaking:** Delivered talks on AI and STEM at practical conferences and workshops
 
 ---
 
 ### Skills
 
-- **Programming:** Python, C/C++, R, MATLAB, SQL
-- **Libraries & Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face, NumPy, Pandas, spaCy, Matplotlib
-- **NLP & LLMs:** Transformers, Prompt Engineering, Chain-of-Thought, Fine-tuning, Evaluation Design
-- **Cloud & Deployment:** Google Cloud Platform, HPC clusters, Git, UNIX
+- **Programming:** Python, R, MATLAB, C/C++, SQL
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Ray, Hugging Face, llama.cpp, vLLM, Ollama, NumPy, Pandas, Seaborn, Scikit-learn
+- **Deep Learning & LLMs:** Transformers, LSTM, GPT, BERT, CNN, RNN, MoE
+- **Cloud & DevOps:** Google Cloud Platform, HPC clusters, Git, UNIX
 - **Web & Markup:** HTML, CSS, Markdown, LaTeX
 - **Product:** Market Research, Analytics, A/B Testing, Project Design
 - **Interpersonal:** Leadership, Entrepreneurship, Mentorship

@@ -12,7 +12,7 @@ In my free time, I enjoy running, practicing yoga, and exploring new places. I�
 
 I read classics and fantasy books. Some of my favourites include novels by _Andrzej Sapkowski_, _J.R.R. Tolkien_, _J. K. Rowling_, _Ray Bradbury_, _George Orwell_. I like to play video game adaptations and watch movies of those too! 
 
-I'm into a wide range of sports and activities -- I’m always up for a game of ⚽️ 🏀 🏸 🏓 ♟️ 🀄 and more!
+I'm into many sports and activities -- I’m always up for a game of ⚽️ 🏀 🏸 🏓 ♟️ 🀄 and more!
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 2rem;">
   <img src="/images/running.jpeg" alt="Running photo" style="width: 250px; height: 250px; object-fit: cover; border-radius: 12px;">

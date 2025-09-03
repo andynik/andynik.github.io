@@ -8,7 +8,7 @@ permalink: /stem-projects/
 
 ### Educational Projects & Outreach
 
-Since 2016, actively contributing to the growth of Ukrainian STEM talents by teaching mathematics & programming at extracurricular classes and summer boot camps, organising educational programs and competitions, and fostering evolving community of learners and educators.
+Since 2016, I am actively contributing to the growth of Ukrainian STEM talents by teaching mathematics & programming at extracurricular classes and summer boot camps, organising educational programs and competitions, and fostering community of young learners and educators.
 
 ---
 
