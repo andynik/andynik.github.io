@@ -24,9 +24,9 @@ You can find [My Resume here](https://drive.google.com/file/d/18pMB6NeitQo6tkjRE
 ---
 
 ### Basics
-- **Name:** Andrii Nikolaiev
-- **Contact email:** [adnikolaiev@gmail.com](mailto:adnikolaiev@gmail.com)
-- **Current status:** Visiting researcher at the University of Cambridge, Ph.D. Candidate in Computer Science (thesis submitted)
+- **Name:** Andrii Nikolaiev, Ph.D. in C.S.
+- **Status:** Visiting researcher at the University of Cambridge
+- **Email:** [adnikolaiev@gmail.com](mailto:adnikolaiev@gmail.com)
 
 ---
 
@@ -40,7 +40,7 @@ _Apr 2023 – Present_
 - _**Skills:**_ Dataset Design, HPC Deployment, Model Benchmarking, Computational Statistics, Natural Language Processing.
 
 #### Ph.D. Student at Taras Shevchenko National University of Kyiv
-_Oct 2020 – Sep 2025 (expected)_
+_Oct 2020 – Sep 2025_
 - Analysed and processed 860K+ Chain-of-Thought examples using Python and R.
 - Evaluated 15+ LLMs on automated reasoning using large-scale datasets.
 - Developed data generation methods and quality evaluation pipelines with LLM-as-a-Judge to automate math creation problems, reducing annotation costs by over 50%.
@@ -94,10 +94,10 @@ _Oct 2020 – Sep 2025 (expected)_
 ### Education
 
 #### University of Cambridge, UK
-- **Visiting Postgraduate Research Student**, _Apr 2023 – Present_  
+- **Visiting Postgraduate Research Student**, _2023 – 2025_  
 
 #### Taras Shevchenko National University of Kyiv, Ukraine
-- **Ph.D. in Computer Science**, _Oct 2020 – Sep 2025 (Expected)_  
+- **Ph.D. in Computer Science**, _Oct 2020 – Sep 2025_  
 
 - **B.Sc. & M.Sc. in Computer Science** (with honours), _2014–2020_
 

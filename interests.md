@@ -8,7 +8,7 @@ permalink: /interests/
 
 ### Personal Interests
 
-In my free time, I enjoy running, practicing yoga, and exploring new places. I’ve completed nine half-marathons and one full marathon so far.
+In my free time, I enjoy running, practicing yoga, and exploring new places. I’ve completed 10 half-marathons and one full marathon so far.
 
 I read classics and fantasy books. Some of my favourites include novels by _Andrzej Sapkowski_, _J.R.R. Tolkien_, _J. K. Rowling_, _Ray Bradbury_, _George Orwell_. I like to play video game adaptations and watch movies of those too! 
 
