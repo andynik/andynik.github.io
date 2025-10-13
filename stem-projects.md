@@ -24,11 +24,11 @@ Since 2016, I am actively contributing to the growth of Ukrainian STEM talents b
 
 #### Kvanta Educational STEM Project
 
-In 2016 I co-founded [_Kvanta_](https://kvanta.xyz) and directed yearly STEM courses, reaching over **800 young learners** across 8+ years and inspiring interest in STEM. 
+In 2016 I co-founded [_Kvanta_](https://kvanta.xyz) and directed yearly STEM courses, reaching over **1,000 young learners** across 8+ years and inspiring interest in STEM. 
 
 More than **3,500 teaching hours** have been delivered through weekly lessons and over 10 educational boot camps — both in-person and online (with up to 200 participants) — by our dedicated team of volunteer instructors and educators.
 
-**Over $120,000** was secured in funding through grant applications and partnerships with educational institutions, IT companies and educators to support ongoing project development.
+**Over $140,000** was secured in funding through grant applications and partnerships with educational institutions, IT companies and educators to support ongoing project development.
 
 As a result of our commitment, many Kvanta graduates have continued their passion for science -- participating in domestic and international top-level competitions (IMO, IOI, EGMO etc.), enrolling in top universities across Europe and the U.S.
 
