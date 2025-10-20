@@ -28,7 +28,7 @@ In 2016, I co-founded [_Kvanta_](https://kvanta.xyz) and directed yearly STEM co
 
 **Over $140,000** was secured in funding through grant applications, including _Emergent Ventures_ (Mercatus Center, USA), _XTX Markets_ etc. and partnerships with educational institutions, IT companies and educators to support ongoing project development.
 
-As a result of our commitment, many Kvanta graduates have continued their passion for science -- participating in domestic and international top-level competitions (IMO, IOI, EGMO etc.), enrolling in top universities across Europe and the U.S.
+As a result of our commitment, many Kvanta graduates have continued their passion for science -- participating in domestic and international top-level competitions (IMO, IOI, EGMO etc.), starting academic journeys at the universities worldwide, and building their own path to glory.
 
 ---
 <div style="float:left; width:300px; margin:1em 2em 1em 0;">
@@ -62,4 +62,4 @@ Participated on scientific conferences and workshops about AI/STEM, delivered ta
   - Python lecturer at _Ukrainian Physics and Mathematics Lyceum_ (2016).
 - **Olympiads & Outreach**
   - Jury member on the [_Ukrainian mathematical competitions_](https://matholymp.com.ua/) (2016-2023).
-  - Co-initiated interdisciplinary volunteer classes [_Let's Get Distracted!_](https://lets-get-distracted.kvanta.xyz) to support the mental well-being of Ukrainian children (2022).
+  - Co-initiated interdisciplinary volunteer classes [_Let's Get Distracted!_](https://lets-get-distracted.kvanta.xyz) to support the mental well-being of children, reaching out 300+ kids (2022).
