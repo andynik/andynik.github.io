@@ -8,23 +8,23 @@ permalink: /research/
 
 ### Research
 
-My research explores methods for evaluating the automated reasoning capabilities of LLMs, including benchmark creation, comparative human studies, and data augmentation. View my publications on [Google Scholar](https://scholar.google.com/citations?user=N8jrLt4AAAAJ) 🎓
+My research focuses on the mathematical reasoning capabilities of language models. I study how changes in problem representation affect model performance, conduct human studies to compare reasoning patterns, and analyse how problem domain and complexity shape outcomes. I also develop methods for automated evaluation and synthetic data generation. My list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=N8jrLt4AAAAJ) 🎓
 
 ---
 
 #### Publications
 
-- **Neural Network Methods for Selecting and Generating Synthetic Variations of Combinatorial Problems.**  
+- **[Neural Network Methods for Selecting and Generating Synthetic Variations of Combinatorial Problems](https://doi.org/10.1007/s10559-025-00774-y).**  
   Nikolaiev, Andrii, and Anisimov, Anatoliy.  
-  *Cybernetics and Systems Analysis*, pp. 354–363.  [DOI](https://doi.org/10.1007/s10559-025-00774-y). 2025.
+  *Cybernetics and Systems Analysis*, pp. 354–363. Springer Nature, 2025.
 
-- **Can language models rival mathematics students? Evaluating mathematical reasoning through textual manipulation and human experiments.**    
+- **[Can language models rival mathematics students? Evaluating mathematical reasoning through textual manipulation and human experiments](https://arxiv.org/abs/2412.11908).**    
   Nikolaiev, Andrii, Stathopoulos, Yiannos, and Teufel, Simone.  
-  [ArXiv preprint](https://arxiv.org/abs/2412.11908). 2024.
+  *ACL RR*. arXiv pre-print, 2024.
 
-- **Comparison of Problem-solving Performance Across Mathematical Domains with Large Language Models.**   
+- **[Comparison of Problem-solving Performance Across Mathematical Domains with Large Language Models](https://doi.org/10.15407/jai2024.04.096).**   
   Nikolaiev, Andrii D., and Derevianchenko, Oleksandr V.  
-  *Artificial Intelligence Scientific Journal*, pp. 96–104. [DOI](https://doi.org/10.15407/jai2024.04.096). 2024.
+  *Artificial Intelligence Scientific Journal*, pp. 96–104. 2024.
 
 ---
 
