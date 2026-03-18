@@ -1,14 +1,25 @@
 ---
-layout: page
-title: Research
+layout: single
+title: ""
 permalink: /research/
+author_profile: true
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+### AI Research
 
-### Research
+I’m a visiting researcher at the University of Cambridge NLIP group, working with Prof. Simone Teufel and Dr. Yiannos Stathopoulos. I have completed Ph.D. in Computer Science at Taras Shevchenko National University of Kyiv, supervised by Prof. Anatoliy Anisimov.
 
-My research focuses on the mathematical reasoning capabilities of language models. I study how changes in problem representation affect model performance, conduct human studies to compare reasoning patterns, and analyse how problem domain and complexity shape outcomes. I also develop methods for automated evaluation and synthetic data generation. My list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=N8jrLt4AAAAJ) 🎓
+My research focuses on the mathematical reasoning capabilities of language models. I study how changes in problem representation affect model performance, conduct human studies to compare reasoning patterns, and analyse how problem domain and complexity shape outcomes. I also develop methods for automated evaluation and synthetic data generation.
+
+Prior to that, I obtained my B.Sc. and M.Sc. degrees at Taras Shevchenko National University of Kyiv, both in Computer Science, focusing on deep learning and cloud computing.
+
+My list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=N8jrLt4AAAAJ) 🎓
+
+---
+
+#### PhD thesis
+
+My PhD, titled [Development of Data Synthesis and Mathematical Combinatorial Problem Generation Methods Using Large Language Models](https://scc.knu.ua/zdobuvach-phd?id=336338) (2025), is about evaluations of LLMs for the mathematical reasoning.
 
 ---
 

@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "STEM Projects"
+    url: /stem-projects/
+  - title: "Interests"
+    url: /interests/
+  - title: "CV"
+    url: /cv/

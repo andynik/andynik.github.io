@@ -3,30 +3,56 @@ email: adnikolaiev@gmail.com
 description: "Andrii's personal website."
 baseurl: ""
 url: "https://andynik.github.io"
+repository: "andynik/andynik.github.io"
 
-facebook_username: andrn
-github_username: andynik
-linkedin_username: andynik
+locale: en-US
+minimal_mistakes_skin: "default"
 
-# Navigation (block style)
-nav:
-  - title: 'Research'
-    href: '/research'
-  - title: 'STEM Projects'
-    href: '/stem-projects'
-  - title: 'Interests'
-    href: '/interests'
-  - title: 'CV'
-    href: '/cv/'   # local page that will redirect
-
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-include-cache
 
-header_pages:
-  - index.md
-  - research.md
-  - stem-projects.md
-  - interests.md
-  - cv.md
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      toc: false
+
+author:
+  name: "Andrii Nikolaiev"
+  avatar: "/assets/images/prof_pic.jpg"
+  bio: "Expert Project Manager at Mercor (APEX), visiting researcher in the Cambridge NLIP Group"
+  location: "Cambridge, UK"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:adnikolaiev@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/andynik"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/andynik/"
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:adnikolaiev@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/andynik"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/andynik/"
+
+# Top navigation lives in _data/navigation.yml
+
+# Keep existing permalinks like /research/ without moving files
+include:
+  - _pages
