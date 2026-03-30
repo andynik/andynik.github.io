@@ -54,6 +54,7 @@ I participated in several scientific conferences and workshops about AI/STEM for
 </div>
 
 #### Olympiads & Outreach
+  - Judge for the AI category at *[GENIUS Olympiad](https://geniusolympiad.org/)*.
   - Jury member on the [_Ukrainian mathematical competitions_](https://matholymp.com.ua/) (2016-2023).
   - Co-initiated interdisciplinary volunteer classes [_Let's Get Distracted!_](https://lets-get-distracted.kvanta.xyz) to support the mental well-being of children, reaching out 300+ kids (2022).
 
