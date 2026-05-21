@@ -1,0 +1,3 @@
+# Override Minimal Mistakes UI strings (locale matches _config.yml)
+en-US:
+  follow_label: ""

@@ -10,7 +10,7 @@ classes: wide
 
 ![Andrii Nikolaiev](/assets/images/prof_pic.jpg){: .align-right style="max-width: 300px; max-height: 300px; border-radius: 12px;" }
 
-Hi, I’m Andrii Nikolaiev. I’m an Expert Project Manager in the APEX research team at Mercor and a visiting researcher at the University of Cambridge NLIP Group.
+Hi, I’m Andrii Nikolaiev. I’m an Expert Project Manager in the APEX Research team at Mercor and a visiting researcher at the University of Cambridge NLIP Group.
 
 I hold a PhD in Computer Science (AI/ML). My experience includes building LLM evaluation pipelines, designing benchmarks and datasets, running human studies, and deploying models across cloud and local inference frameworks.
 

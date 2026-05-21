@@ -61,7 +61,7 @@ I participated in several scientific conferences and workshops about AI/STEM for
 ---
 
 <div style="float:right; width:300px; margin:1em 0 1em 1em;">
-  <img src="/assets/images/kontora_pi_2019.JPG" alt="IMO" style="width:100%; border-radius:12px;">
+  <img src="/assets/images/kontora_pi_2019.jpg" alt="Kontora PI 2029" style="width:100%; border-radius:12px;">
   <p style="text-align: center; font-style: italic; margin-top: 0.5em; font-size: 0.8em; color: #555;">
     🇺🇦 Kyiv, Kontora Pi 2019
   </p>
