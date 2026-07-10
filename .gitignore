@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 .idea
 .DS_Store
+.bundle
+vendor/bundle
+mise.toml
+.mise.local.toml

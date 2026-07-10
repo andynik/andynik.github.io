@@ -7,11 +7,11 @@ author_profile: true
 
 ### AI Research
 
-I’m a visiting researcher at the University of Cambridge NLIP group, working with Prof. Simone Teufel and Dr. Yiannos Stathopoulos. I have completed Ph.D. in Computer Science at Taras Shevchenko National University of Kyiv, supervised by Prof. Anatoliy Anisimov.
+I’m a visiting researcher at the University of Cambridge at the Natural Language and Information Processing Research Group, working with Prof. Simone Teufel and Dr. Yiannos Stathopoulos. Last year, I have completed Ph.D. in Computer Science at Taras Shevchenko National University of Kyiv, supervised by Prof. Anatoliy Anisimov.
 
-My research focuses on the mathematical reasoning capabilities of language models. I study how changes in problem representation affect model performance, conduct human studies to compare reasoning patterns, and analyse how problem domain and complexity shape outcomes. I also develop methods for automated evaluation and synthetic data generation.
+My research focuses on the reasoning and problem-solving abilities of AI models. I compare reasoning patterns between models and humans by building benchmarks that reveal how problem representation, domain, and complexity affect model performance. This work later helped me build automated evaluation and data augmentation pipelines for real-world applications, including education and data extraction.
 
-Prior to that, I obtained my B.Sc. and M.Sc. degrees at Taras Shevchenko National University of Kyiv, both in Computer Science, focusing on deep learning and cloud computing.
+Prior to that, I obtained my B.Sc. and M.Sc. degrees at Taras Shevchenko National University of Kyiv, both in Computer Science, focusing on developing deep learning methods for abstract strategy games and cloud computing infra.
 
 My list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=N8jrLt4AAAAJ) 🎓
 
@@ -19,7 +19,7 @@ My list of publications is available on [Google Scholar](https://scholar.google.
 
 #### PhD thesis
 
-My PhD, titled [Development of Data Synthesis and Mathematical Combinatorial Problem Generation Methods Using Large Language Models](https://scc.knu.ua/zdobuvach-phd?id=336338) (2025), is about evaluations of LLMs for the mathematical reasoning.
+My PhD, titled [Development of Data Synthesis and Mathematical Combinatorial Problem Generation Methods Using Large Language Models](https://scc.knu.ua/zdobuvach-phd?id=336338) (2025), focuses on designing LLM evaluations for mathematical reasoning tasks and revealing differences in thinking patterns between models and humans.
 
 ---
 
