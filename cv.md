@@ -4,5 +4,5 @@ title: ""
 permalink: /cv/
 author_profile: true
 redirect_to:
-  - "assets/pdf/Andrii_Nikolaiev_CV_2026.07.pdf"
+  - "assets/pdf/Andrii_Nikolaiev_CV_2026_07.pdf"
 ---
