@@ -8,3 +8,7 @@ _site
 vendor/bundle
 mise.toml
 .mise.local.toml
+
+# Temporary CV drafts
+cv-new/
+.claude/

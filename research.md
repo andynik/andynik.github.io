@@ -5,50 +5,26 @@ permalink: /research/
 author_profile: true
 ---
 
-### AI Research
+### Research
 
-I’m a visiting researcher at the University of Cambridge at the Natural Language and Information Processing Research Group, working with Prof. Simone Teufel and Dr. Yiannos Stathopoulos. Last year, I have completed Ph.D. in Computer Science at Taras Shevchenko National University of Kyiv, supervised by Prof. Anatoliy Anisimov.
+I completed a PhD in Computer Science in 2025 at Taras Shevchenko National University of Kyiv, on evaluating how language models reason about mathematics and combinatorial problems.
 
-My research focuses on the reasoning and problem-solving abilities of AI models. I compare reasoning patterns between models and humans by building benchmarks that reveal how problem representation, domain, and complexity affect model performance. This work later helped me build automated evaluation and data augmentation pipelines for real-world applications, including education and data extraction.
+Prior to my current role, I was a visiting researcher at the University of Cambridge, based in the NLIP Group and mentoring MLRD sessions. I worked with Prof. Simone Teufel and Dr. Yiannos Stathopoulos.
 
-Prior to that, I obtained my B.Sc. and M.Sc. degrees at Taras Shevchenko National University of Kyiv, both in Computer Science, focusing on developing deep learning methods for abstract strategy games and cloud computing infra.
-
-My list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=N8jrLt4AAAAJ) 🎓
+A full list of publications is on [Google Scholar](https://scholar.google.com/citations?user=N8jrLt4AAAAJ).
 
 ---
 
 #### PhD thesis
 
-My PhD, titled [Development of Data Synthesis and Mathematical Combinatorial Problem Generation Methods Using Large Language Models](https://scc.knu.ua/zdobuvach-phd?id=336338) (2025), focuses on designing LLM evaluations for mathematical reasoning tasks and revealing differences in thinking patterns between models and humans.
+[Development of Data Synthesis and Mathematical Combinatorial Problem Generation Methods Using Large Language Models](https://scc.knu.ua/zdobuvach-phd?id=336338) (2025).
 
 ---
 
-#### Publications
+#### Selected publications
 
 - **[Neural Network Methods for Selecting and Generating Synthetic Variations of Combinatorial Problems](https://doi.org/10.1007/s10559-025-00774-y).**  
-  Nikolaiev, Andrii, and Anisimov, Anatoliy.  
-  *Cybernetics and Systems Analysis*, pp. 354–363. Springer Nature, 2025.
+  Nikolaiev & Anisimov. *Cybernetics and Systems Analysis*, Springer Nature, 2025.
 
-- **[Can language models rival mathematics students? Evaluating mathematical reasoning through textual manipulation and human experiments](https://arxiv.org/abs/2412.11908).**    
-  Nikolaiev, Andrii, Stathopoulos, Yiannos, and Teufel, Simone.  
-  *ACL RR*. arXiv pre-print, 2024.
-
-- **[Comparison of Problem-solving Performance Across Mathematical Domains with Large Language Models](https://doi.org/10.15407/jai2024.04.096).**   
-  Nikolaiev, Andrii D., and Derevianchenko, Oleksandr V.  
-  *Artificial Intelligence Scientific Journal*, pp. 96–104. 2024.
-
----
-
-#### Scientific conferences
-
-- **Introducing Constraints in Combinatorial Problems: A Case Study with LLaMA 3.1.**  
-  _11th International Scientific Conference on Information Technology and Implementation (IT&I-2024)_, Kyiv, Ukraine, Dec. 2024.
-
-- **AI in Education: Application of LLMs for Learning Mathematics.**  
-  _Ukrainian Cambridge: New Research by Displaced Scholars from Ukraine_, Cambridge, UK, Nov. 2023.
-
-- **Mathematical Word Problem Solution Evaluation via Data Preprocessing Approach.**  
-  _8th International Scientific Conference on Information Technology and Implementation (IT&I-2021)_, Kyiv, Ukraine, Dec. 2021.
-
-- **Implementation of Artificial Intelligence Module for Educational Purposes.**  
-  _7th International Scientific Conference on Information Technology and Interactions (IT&I-2020)_, Kyiv, Ukraine, Nov. 2020.
+- **[Can language models rival mathematics students?](https://arxiv.org/abs/2412.11908)**  
+  Nikolaiev, Stathopoulos & Teufel. *ACL RR*, arXiv preprint, 2024.

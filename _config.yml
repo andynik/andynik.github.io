@@ -30,8 +30,8 @@ defaults:
 author:
   name: "Andrii Nikolaiev"
   avatar: "/assets/images/prof_pic.jpg"
-  bio: "Project Manager at [Mercor.io](https://mercor.io), Visiting Researcher at [cam.ac.uk](https://www.cam.ac.uk), Ph.D. in Computer Science"
-  location: "Cambridge, UK"
+  bio: "Research Project Manager at [Mercor.io](https://mercor.io), Ph.D. in Computer Science"
+  location: "London, UK"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"

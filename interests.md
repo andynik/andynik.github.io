@@ -13,9 +13,9 @@ I read classics and fantasy books. Some of my favourites include novels by Andrz
 
 I'm into many sports and activities -- I’m always up for a game of ⚽️ 🏀 🏸 🏓 ♟️ 🀄 and more!
 
-<div style="display: flex; flex-direction: column; align-items: center; margin-top: 2rem;">
-  <img src="/assets/images/running.jpeg" alt="Running photo" style="width: 250px; height: 250px; object-fit: cover; border-radius: 12px;">
-  <p style="text-align: center; font-style: italic; margin-top: 0.5em; font-size: 0.8em; color: #555;">
-    🇵🇹 Lisbon Half Marathon 2025
-  </p>
+<div class="photo-row photo-row--single">
+  <figure>
+    <img src="/assets/images/running.jpeg" alt="Lisbon Half Marathon 2025">
+    <figcaption>🇵🇹 Lisbon Half Marathon 2025</figcaption>
+  </figure>
 </div>
