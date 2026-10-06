@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.title and page.title != "" %}
+  <title>{{ page.title }} · {{ site.author.name }}</title>
+  {% else %}
+  <title>{{ site.title }}</title>
+  {% endif %}
+  <meta name="description" content="{{ site.description | escape }}">
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/geist-sans@5.2.5/latin-300.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/geist-sans@5.2.5/latin-400.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/geist-mono@5.2.5/latin-400.css">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body{% if page.url == "/" %} class="home"{% endif %}>
+  <header class="site-header">
+    <a class="mark" href="{{ '/' | relative_url }}">AN</a>
+    <nav>
+      {% for item in site.data.navigation.main %}
+        <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="is-active"{% endif %}>{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+  </header>
+
+  <div class="wrap">
+    <main>
+      {{ content }}
+    </main>
+
+    <p class="social">
+      <a href="mailto:{{ site.email }}">email</a>
+      <a href="https://github.com/andynik">github</a>
+      <a href="https://www.linkedin.com/in/andynik/">linkedin</a>
+    </p>
+
+    <footer class="site-footer">
+      © {{ "now" | date: "%Y" }} {{ site.author.name }}
+    </footer>
+  </div>
+</body>
+</html>

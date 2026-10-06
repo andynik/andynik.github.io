@@ -1,8 +1,7 @@
 ---
-layout: single
-title: ""
+layout: site
+title: "CV"
 permalink: /cv/
-author_profile: true
 redirect_to:
   - "assets/pdf/Andrii_Nikolaiev_CV_2026_10.pdf"
 ---

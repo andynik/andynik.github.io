@@ -1,11 +1,10 @@
 ---
-layout: single
-title: ""
+layout: site
+title: "Interests"
 permalink: /interests/
-author_profile: true
 ---
 
-### My Interests
+# My Interests
 
 In my free time, I enjoy running, practicing yoga, and exploring new places. I’ve completed 11 half-marathons (PB: 01:31:16) and one full marathon so far.
 
