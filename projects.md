@@ -32,7 +32,7 @@ OCR and segmentation of historical handwritten records via custom RAG methods.
   <span class="role-dates">Apr 2023 – Present</span>
 </p>
 
-Evaluating LLM reasoning on combinatorial problems ([Combi-Puzzles](https://arxiv.org/abs/2412.11908)). Mentored MLRD sessions.
+Evaluating LLM reasoning on combinatorial problems on the [Combi-Puzzles](https://arxiv.org/abs/2412.11908) dataset. Mentored MLRD sessions.
 
 <p class="role">
   <span>PhD in Computer Science, <a href="https://knu.ua/en/">Taras Shevchenko National University of Kyiv</a></span>
@@ -51,6 +51,16 @@ Mathematical Reasoning with AI models. Run seminars in Databases, Cloud Computin
 A year-round STEM programme with 1,000+ learners, 70+ instructors, and $250K+ in funding from Emergent Ventures, XTX Markets, GlobalLogic, and Admixer. Olympiad-level courses and boot camps (up to 300+ participants) in mathematics, programming, and science.
 
 <p class="role">
+  <span>Jury, <a href="https://matholymp.com.ua/">Ukrainian mathematical competitions</a></span>
+  <span class="role-dates">2015 – 2023</span>
+</p>
+
+<p class="role">
+  <span>Organiser, <a href="https://lets-get-distracted.kvanta.xyz">Let's Get Distracted! Volunteer classes</a></span>
+  <span class="role-dates">2022</span>
+</p>
+
+<p class="role">
   <span>Partnerships Project Manager, <a href="https://www.setuniversity.edu.ua/en/">SET University</a></span>
   <span class="role-dates">2021 – 2022</span>
 </p>
@@ -60,26 +70,21 @@ A year-round STEM programme with 1,000+ learners, 70+ instructors, and $250K+ in
   <span class="role-dates">2019</span>
 </p>
 
-<p class="role">
-  <span>Jury, <a href="https://matholymp.com.ua/">Ukrainian mathematical competitions</a></span>
-  <span class="role-dates">2016 – 2023</span>
-</p>
-
-<p class="role">
-  <span>Jury, <a href="https://geniusolympiad.org/">GENIUS Olympiad</a></span>
-  <span class="role-dates">2026</span>
-</p>
-
-<p class="role">
-  <span>Organiser, <a href="https://lets-get-distracted.kvanta.xyz">Let's Get Distracted!</a> Volunteer classes</span>
-  <span class="role-dates">2022</span>
-</p>
-
-## Conferences
+## Conferences & Events 
 
 <p class="role">
   <span>Emergent Ventures India Unconference, Copenhagen, Denmark</span>
   <span class="role-dates">Aug 2026</span>
+</p>
+
+<p class="role">
+  <span>AI for environmental issues at <a href="https://geniusolympiad.org/">GENIUS Olympiad</a> (Jury Member)</span>
+  <span class="role-dates">Feb 2026</span>
+</p>
+
+<p class="role">
+  <span>Looking into the Future: From Mathematical Olympiad to Innovative Projects</span>
+  <span class="role-dates">May 2024</span>
 </p>
 
 <p class="role">
