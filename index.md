@@ -6,7 +6,7 @@ permalink: /
 
 # Andrii Nikolaiev
 
-<img class="portrait" src="/assets/images/prof_pic.jpg" alt="Andrii Nikolaiev">
+<img class="portrait" src="/assets/images/prof_pic.jpeg" alt="Andrii Nikolaiev">
 
 I'm a Research Project Manager at [Mercor](https://mercor.io), managing frontier AI evaluation. Prior to that, I was a visiting researcher at the NLIP Group at the [University of Cambridge](https://www.cam.ac.uk/), under the supervision of [Prof. Simone Teufel](https://www.cl.cam.ac.uk/~sht25/) and [Dr. Yiannos Stathopoulos](https://www.cl.cam.ac.uk/~yas23/).
 

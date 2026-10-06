@@ -29,7 +29,7 @@ defaults:
 
 author:
   name: "Andrii Nikolaiev"
-  avatar: "/assets/images/prof_pic.jpg"
+  avatar: "/assets/images/prof_pic.jpeg"
   bio: "Research Project Manager at [Mercor.io](https://mercor.io), Ph.D. in Computer Science"
   location: "London, UK"
   links:
