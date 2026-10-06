@@ -1,15 +1,14 @@
-# Andrii's Personal Website repository
+# Andrii's personal website repository
 
-Public profile available at [andynik.github.io](https://andynik.github.io).
+Personal site: [andynik.github.io](https://andynik.github.io).
 
-This site is built with [Jekyll](https://jekyllrb.com/docs/installation/) using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme.
+Built on Jekyll 4.4 with a custom layout.
 
-To run locally:
+To run locally (Ruby 3.3):
 
 ```
 bundle install
 bundle exec jekyll serve --livereload
 ```
 
-The website will appear at [`127.0.0.1:4000/`](http://127.0.0.1:4000/).
-
+Then open [127.0.0.1:4000](http://127.0.0.1:4000/).
