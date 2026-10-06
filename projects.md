@@ -35,7 +35,7 @@ OCR and segmentation of historical handwritten records via custom RAG methods.
 Evaluating LLM reasoning on combinatorial problems on the [Combi-Puzzles](https://arxiv.org/abs/2412.11908) dataset. Mentored MLRD sessions.
 
 <p class="role">
-  <span>PhD in Computer Science, <a href="https://knu.ua/en/">Taras Shevchenko National University of Kyiv</a></span>
+  <span>Ph.D. in Computer Science, <a href="https://knu.ua/en/">Taras Shevchenko National University of Kyiv</a></span>
   <span class="role-dates">2020 – 2025</span>
 </p>
 
