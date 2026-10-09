@@ -12,4 +12,4 @@ I'm a Research Project Manager at [Mercor](https://mercor.io), managing frontier
 
 I studied B.Sc. and M.Sc. at [KNU](https://knu.ua/en/), graduating with honours. I hold a Ph.D. in Computer Science. My thesis was advised by [Prof. Anatoly Anisimov](https://dblp.org/pid/72/5294.html).
 
-I've also spent 10+ years building and leading various STEM programmes, co-founded [Kvanta](https://kvanta.xyz) — 1,000+ learners and $250K+ in funding.
+I've also spent 10+ years building and leading various STEM programmes, co-founded [Kvanta](https://kvanta.xyz) — 1,000+ learners and $250K+ in funding. Multiple-time grant recipient of [Emergent Ventures](https://www.mercatus.org/emergent-ventures) at the Mercatus Center, administered by [Tyler Cowen](https://www.mercatus.org/scholars/tyler-cowen).
