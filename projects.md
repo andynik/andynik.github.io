@@ -48,7 +48,7 @@ Mathematical Reasoning with AI models. Run seminars in Databases, Cloud Computin
   <span class="role-dates">2016 – Present</span>
 </p>
 
-A year-round STEM programme with 1,000+ learners, 70+ instructors, and $250K+ in funding from Emergent Ventures, XTX Markets, GlobalLogic, and Admixer. Olympiad-level courses and boot camps (up to 300+ participants) in mathematics, programming, and science.
+A year-round STEM programme with 1,500+ learners, 70+ instructors, and $250K+ in funding from Emergent Ventures, XTX Markets, GlobalLogic, and Admixer. Olympiad-level courses and boot camps (up to 300+ participants) in mathematics, programming, and science.
 
 <p class="role">
   <span>Multiple-time grant recipient, <a href="https://www.mercatus.org/emergent-ventures">Emergent Ventures</a>, <a href="https://www.mercatus.org/">Mercatus Center</a> (<a href="https://www.mercatus.org/scholars/tyler-cowen">Tyler Cowen</a>)</span>
